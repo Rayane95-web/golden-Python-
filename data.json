@@ -1,0 +1,479 @@
+{
+  "access_codes": {
+    "USER": "USER123",
+    "VIP": "VIP123"
+  },
+  "admin_credentials": {
+    "username": "Sicario2011",
+    "password": "Sicario"
+  },
+  "support_message": "Follow me on Instagram: 9attos.2",
+  "questions": {
+    "USER": [
+      {
+        "q": "Output of: print(5 + 3)?",
+        "choices": [
+          "6",
+          "8",
+          "53",
+          "Error"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Which keyword starts a function in Python?",
+        "choices": [
+          "func",
+          "def",
+          "function",
+          "lambda"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "What does len(list) return?",
+        "choices": [
+          "Sum",
+          "Number of elements",
+          "Last",
+          "First"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Output of: print('A'*3)?",
+        "choices": [
+          "AAA",
+          "A3",
+          "Error",
+          "'A'"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "Which symbol is used for comments?",
+        "choices": [
+          "//",
+          "#",
+          "/* */",
+          "<!-- -->"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Output of: print(10//3)?",
+        "choices": [
+          "3",
+          "3.33",
+          "4",
+          "Error"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "How do you create a list?",
+        "choices": [
+          "list()",
+          "{}",
+          "()",
+          "array()"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "What is the type of 5?",
+        "choices": [
+          "int",
+          "float",
+          "str",
+          "bool"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "Which method adds an element to a list?",
+        "choices": [
+          "add()",
+          "append()",
+          "insert()",
+          "extend()"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Output: print('Hello'[1])?",
+        "choices": [
+          "H",
+          "e",
+          "l",
+          "o"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Which keyword is used for loops?",
+        "choices": [
+          "for",
+          "loop",
+          "repeat",
+          "iterate"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "True or False: Python is case-sensitive?",
+        "choices": [
+          "True",
+          "False",
+          "Maybe",
+          "Error"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "Output of: print(2**3)?",
+        "choices": [
+          "8",
+          "6",
+          "9",
+          "Error"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "Which operator checks equality?",
+        "choices": [
+          "=",
+          "==",
+          "===",
+          "!="
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "How do you start a dictionary?",
+        "choices": [
+          "[]",
+          "{}",
+          "()",
+          "<>"
+        ],
+        "answer": "B"
+      }
+    ],
+    "VIP": [
+      {
+        "q": "What prints: a=[1,2]; b=a; a.append(3); print(b)?",
+        "choices": [
+          "[1,2]",
+          "[1,2,3]",
+          "[3]",
+          "Error"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "List comprehension [x*x for x in range(3)] produces?",
+        "choices": [
+          "[1,4,9]",
+          "[0,1,4]",
+          "[0,1,2]",
+          "Error"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Which method adds an item to end of list?",
+        "choices": [
+          "add()",
+          "append()",
+          "insert()",
+          "extend()"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Result of 7 // 2 ?",
+        "choices": [
+          "3.5",
+          "3",
+          "4",
+          "Error"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "dict.get(key, default) if key missing?",
+        "choices": [
+          "Raises KeyError",
+          "Returns None/default",
+          "Removes key",
+          "Returns first key"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Output: print(list(range(3)))?",
+        "choices": [
+          "[1,2,3]",
+          "[0,1,2]",
+          "[0,1,2,3]",
+          "Error"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Which keyword defines a class?",
+        "choices": [
+          "function",
+          "def",
+          "class",
+          "object"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "What does 'break' do in loop?",
+        "choices": [
+          "Continue loop",
+          "Exit loop",
+          "Skip iteration",
+          "Error"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Lambda functions are defined using?",
+        "choices": [
+          "def",
+          "lambda",
+          "fun",
+          "function"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Output: print(type({}))?",
+        "choices": [
+          "dict",
+          "list",
+          "set",
+          "tuple"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "What is Python's built-in set type?",
+        "choices": [
+          "list",
+          "dict",
+          "set",
+          "tuple"
+        ],
+        "answer": "C"
+      },
+      {
+        "q": "Output: bool(0)?",
+        "choices": [
+          "True",
+          "False",
+          "0",
+          "1"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Which operator is floor division?",
+        "choices": [
+          "//",
+          "/",
+          "%",
+          "**"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "Output: 'Python'[::-1]?",
+        "choices": [
+          "nohtyP",
+          "Python",
+          "Error",
+          "pythoN"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "Method to remove last item in list?",
+        "choices": [
+          "pop()",
+          "remove()",
+          "del()",
+          "clear()"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "What does 'continue' do in loop?",
+        "choices": [
+          "Exit loop",
+          "Skip iteration",
+          "Stops program",
+          "Error"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Output: 5 == 5.0?",
+        "choices": [
+          "True",
+          "False",
+          "Error",
+          "None"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "Output: 10 % 3?",
+        "choices": [
+          "1",
+          "3",
+          "0",
+          "Error"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "Which keyword to handle exceptions?",
+        "choices": [
+          "try",
+          "catch",
+          "except",
+          "handle"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "Output: range(5)?",
+        "choices": [
+          "[0,1,2,3,4]",
+          "range(0,5)",
+          "Error",
+          "[1,2,3,4,5]"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Output: type([1,2,3])?",
+        "choices": [
+          "list",
+          "tuple",
+          "set",
+          "dict"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "Output: len('Python')?",
+        "choices": [
+          "6",
+          "5",
+          "7",
+          "Error"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "Output: 3**2?",
+        "choices": [
+          "6",
+          "9",
+          "8",
+          "Error"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Output: 3!=3?",
+        "choices": [
+          "True",
+          "False",
+          "Error",
+          "None"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Which built-in converts string to int?",
+        "choices": [
+          "int()",
+          "str()",
+          "float()",
+          "number()"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "Output: type(3.0)?",
+        "choices": [
+          "float",
+          "int",
+          "str",
+          "bool"
+        ],
+        "answer": "A"
+      },
+      {
+        "q": "Output: bool([])?",
+        "choices": [
+          "True",
+          "False",
+          "Error",
+          "None"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "Output: bool([0])?",
+        "choices": [
+          "True",
+          "False",
+          "Error",
+          "None"
+        ],
+        "answer": "A"
+      }
+    ],
+    "ADMIN": [
+      {
+        "q": "print(bool('')) prints?",
+        "choices": [
+          "True",
+          "False",
+          "Error",
+          "None"
+        ],
+        "answer": "B"
+      },
+      {
+        "q": "set([1,2,2,3]) produces?",
+        "choices": [
+          "[1,2,2,3]",
+          "{1,2,3}",
+          "(1,2,3)",
+          "Error"
+        ],
+        "answer": "B"
+      }
+    ]
+  },
+  "users": {
+    "USER": {
+      "credits": 100,
+      "last_reset": "2025-11-29T17:28:49.261455"
+    },
+    "VIP": {
+      "credits": 9990,
+      "last_reset": "2025-11-29T17:27:48.973737"
+    }
+  }
+}
