@@ -14,3 +14,4 @@ and give acces to your terminal for your files
 cd /sdcard/Download
 5) run your python file :
 python app_main.py
+6) the app will request to you to put the code is "USER123"
